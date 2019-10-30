@@ -1,0 +1,26 @@
+body{
+    background-image: url("/media/floral-spongebob-back.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+.topNav, .bottomNav{
+    background-image: url("/media/wood-wallpaper.jpg");
+    height: 100px;
+}
+.menu{
+    padding: 50px 0 50px 0;
+}
+.order-form{
+    background-color: lightblue;
+    padding: 23px;
+    border: 2px solid;
+    border-radius: 16px;
+}
+.ratelist{
+    margin-left: -40px;
+}
+.ratelist li{
+    list-style: none;
+}
